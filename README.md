@@ -383,8 +383,6 @@ backend/            FastAPI app, agents, persistence, local inference
 frontend/           Vanilla SPA (index.html + static/)
 knowledge-base/     MediShield Life PDF, derived chunks, questionnaire, demo results
 evaluation-results/ Saved evaluation run artifacts
-skills/             kb-question-generator skill (questionnaire generation, packaged)
-metrics.md              Full metric definitions
 question_generation.md  IKB/OOKB question taxonomy and process
 PROCESS.md              How this was built — decisions, pivots, judgment calls
 ```
