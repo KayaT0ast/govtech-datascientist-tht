@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+pymongo
+sentence-transformers
+numpy
+scikit-learn
+python-dotenv
+werkzeug
+pdfplumber
+python-pptx
+python-docx
+torch
+transformers
+accelerate
+huggingface_hub
