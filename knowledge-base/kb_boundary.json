@@ -1,0 +1,35 @@
+{
+  "domain_scope": [
+    "Healthcare Insurance",
+    "Government Subsidies",
+    "Medical Claims",
+    "Healthcare Costs",
+    "Insurance Policies"
+  ],
+  "entities": [
+    "Central Provident Fund (CPF) Board",
+    "Ministry of Health (MOH)",
+    "MediShield Life",
+    "Integrated Shield Plan (IP)",
+    "Health Promotion Board (HPB)"
+  ],
+  "temporal_range": {
+    "start": "1 June 2026",
+    "end": "1 June 2026",
+    "notes": "The information is correct as of 1 June 2026."
+  },
+  "deep_topics": [
+    "MediShield Life Scheme",
+    "Premiums and Subsidies",
+    "Claim Process",
+    "Coverage and Benefits",
+    "Pro-ration Factors",
+    "Deductibles and Co-insurance",
+    "Exclusions",
+    "Integrated Shield Plan (IP)"
+  ],
+  "shallow_topics": [
+    "Healthpoints",
+    "Additional Withdrawal Limit (AWL)"
+  ]
+}

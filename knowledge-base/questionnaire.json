@@ -1,0 +1,794 @@
+[
+  {
+    "id": "q_001",
+    "question": "What is the annual premium for a 30-year-old under MediShield Life?",
+    "type": "IKB",
+    "category": "I-A",
+    "difficulty": "easy",
+    "expected_behavior": "answer",
+    "expected_answer": "$295",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "78 $2,027 31 – 40 $503 79 – 80 $2,187 41 – 50 $637 81 – 83 $2,303 51 – 60 $903 84 – 85 $2,616 61 – 65 $1,131 86 – 88 $2,785 66 – 70 $1,326 89 – 90 $2,785 71 – 73 $1,643 >90 $2,826 The annual premiums can be fully paid using MediSave. You can pay your premium from your MediSave, or your family members (i.e. spouse, parents, children, grandchildren or siblings) may pay your premium using their MediSave. Premiums (after any applicable subsidies) are automatically deducted from your (or your payer’s) MediSave each year. If there is insufficient balance in the MediSave Account to pay the premiums, you (or your payer) will be informed to top up your (or your payer’s) MediSave or arrange a family member to help pay the premiums. For more details, please visit cpf.gov.sg/PremiumPayment. 10 | | | | | | | | | | | | Table B: Premiums (before subsidies) | | | | | | | | | | | (Applicable for policy start/renewal date on or after 1 April 2025) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Age Next | | | Annual Premiums | | | Age Next | | | Annual Premiums | | Birthday | | | (Inclusive of 9% GST) | | | Birthday | | | (Inclusive of 9% GST) | | | | | | | | | | | | | | | | | | | | | | | | 1 – 20 | | | $200 | | | 74 – 75 | | | $1,816 | | | | | | | | | | | | | | | | | | | | | | | | 21 – 30 | | | $295 | | | 76 – 78 | | | $2,027 | | | | | | | | | | | | | | | | | | | | | | | | 31 – 40 | | | $503 | | | 79 – 80 | | | $2,187 | | | | | | | | | | | | | | | | | | | | | | | | 41 – 50 | | | $637 | | | 81 – 83 | | | $2,303 | | | | | | | | | | | | | | | | | | | | | | | | 51 – 60 | | | $903 | | | 84 – 85 | | | $2,616 | | | | | | | | | | | | | | | | | | | | | | | | 61 – 65 | | | $1,131 | | | 86 – 88 | | | $2,785 | | | | | | | | | | | | | | | | | | | | | | | | 66 – 70 | | | $1,326 | | | 89 – 90 | | | $2,785 | | | | | | | | | | | | | | | | | | | | | | | | 71 – 73 | | | $1,643 | | | >90 | | | $2,826 | | | | | | | | | | | | 3.3 Who needs to pay Additional Premiums? Under MediShield Life, those with pre-existing medical conditions can enjoy coverage for their conditions. Only those with serious pre-existing medical conditions need to pay an Additional Premium of 30% for the first 10 years, in addition to the standard MediShield Life premiums. A pre-existing condition is a medical condition or illness that an individual already has before he is covered under an insurance plan. If the medical"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_7"
+    ],
+    "rag_query": {
+      "query": "What is the annual premium for a 30-year-old under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_002",
+    "question": "What is the deductible for a Singapore Citizen aged 60 who stays in a Ward A?",
+    "type": "IKB",
+    "category": "I-A",
+    "difficulty": "easy",
+    "expected_behavior": "answer",
+    "expected_answer": "$3,500",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "start of the policy year) | | | | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | | | | | | | | | | Ward class / treatment | | | 80 and below | | | 81 and above | | | | | | | | | | | | | | | | | | Class C | | | $2,000 | | | $2,750 | | | | | | | | | | | | | | | | | Class B2/B2+/B1 | | | $2,500 | | | $3,500 | | | | | | | | | | | | | | | | | | | Class A (including private hospitals) | | | $3,500 | | | $4,500 | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,000 | | | $2,750 | | | Inpatient palliative care service | | | | | | | | (Subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,500 | | | $3,500 | | | Inpatient palliative care service (Non- | | | | | | | | subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Day surgery | | | $1,500 | | | $2,000 | | | | | | | | | | | | | | | | | | Outpatient treatments | | | $500 | | | | | | | | | | | | Illustration of how the deductible works (The examples are based on assumptions that the members are below 80 years old and stay in Ward C. The deductible is $2,000 per policy year. Payouts from MediShield Life are subject to claim limits.) Scenario A: Mr. A is hospitalised once in each policy year. 1st hospitalisation 2nd hospitalisation Claimable Amount: $3,000 Claimable Amount: $2,500 Deductible: $2,000 Deductible: $2,000 As the claimable amount is above As the claimable amount is above the deductible, there is payout from the deductible, there is payout from MediShield Life MediShield Life Policy Year: 1 Apr 25 – 31 Mar 26 Policy Year: 1 Apr 2026 – 31 Mar 2027 1 April 1 April 1 April 2025 2026 2027 1st hospitalisation 2nd hospitalisation Claimable Amount: $1,000 Claimable Amount: $2,000 Deductible: $2,000 Deductible Balance for Policy Year: $1,000 As the claimable amount is less than the deductible of As Mr B had paid the deductible of $2,000, there is no payout $1,000 during the 1st hospitalisation, he from MediShield Life. only needs to pay the balance deductible of $1,000 for the 2nd hospitalisation. Scenario B: Mr. B is hospitalised twice in the same policy year. 26 Mr. B is hospitalised twice in the same policy year. 6.3 What is co-insurance? Co-insurance is the percentage of the claimable amount that you need to pay. Table K gives the breakdown of the co-insurance percentage by setting. Table K: Co-insurance Inpatient/ day surgery/ outpatient Claimable amount accumulated within a policy year First $5,0001 10% Next $5,000 5% Above $10,000 3% 1 Inclusive of deductible 27 | | | | | | Table K: Co-insurance | | | | | | | | | | | | | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_18"
+    ],
+    "rag_query": {
+      "query": "What is the deductible for a Singapore Citizen aged 60 who stays in a Ward A?"
+    }
+  },
+  {
+    "id": "q_003",
+    "question": "What is the co-insurance percentage for the first $5,000 of the claimable amount?",
+    "type": "IKB",
+    "category": "I-A",
+    "difficulty": "easy",
+    "expected_behavior": "answer",
+    "expected_answer": "10%",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "| | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | | | | | 1 Inclusive of deductible | | | | | | | | | Illustration of how co-insurance works (The example is based on a claimable amount of $12,000 and deductible of $2,000.) Bill above Claim Limits (payable using MediSave/cash) You pay Above $60 MediShield Life $10,000 (3% of pays $1,940 $2,000) You pay $250 MediShield Life Claimable Next $5,000 (5% of pays $4,750 Amount $5,000) $12,000 First $5,000 You pay $300* MediShield Life (Inclusive of (10% of $3,000) pays $2,700 $2,000 deductible) Deductibl e ($2,000) You pay $610 of MediShield Life pays co-insurance with $9,390 MediSave/ cash * If a deductible is payable, the co-insurance of 10% is applied on the amount above the deductible. In this case, as the deductible is $2,000, the co-insurance for the first $5,000 will be 10% of the remaining $3,000 which is $300. 28 Bill above Claim Limits (payable using MediSave/cash) You pay $60 (3% of $2,000) You pay $250 (5% of $5,000) You pay $300* (10% of $3,000) Deductibl e ($2,000) You pay $610 of co-insurance with MediSave/ cash | MediShield Life pays $9,390 6.4 How are claims computed? Example 1: Claim computation for a Singapore Citizen aged 35 who stays in a Ward C (excluding IP/rider coverage) Length of stay: 10 days (including 8 days in ICU) Procedure performed: Stomach operation Post-Subsidy MediShield Life Hospital bill1 claim computation Daily ward & treatment charges $8,600 $8,6002 (2 days normal ward + 8 days ICU) Surgical procedure (Table 6B) $1,250 $1,2503 Total $9,850 $9,850 Less deductible4 - ($2,000) Claimable amount - $7,850 (less deductible) Less co-insurance - ($542.50)5 MediShield Life pays - $7,307.50 (74%) MediSave and/or Cash - $2,542.50 (26%) 1 As the insured member is a Singapore Citizen who stayed in Ward C, the MediShield Life claim is computed based on 100% of the bill. 2 Lower of the claim limit for Daily Ward & Treatment Charges, [($830 x 2 days) + ($5,140 x 8 days) +($800 x 2 days)] = $44,380, or 100% of charges incurred of $8,600. Therefore, the claimable amount is $8,600. 3 Lower of the claim limit in Table A for surgical procedure, $3,540 (Table 6B), or 100% of charges incurred of $1,250. Therefore, the claimable amount is $1,250. 4 The insured member is below 80 years old, subject to deductible of $2,000 for Ward C. 5 Co-insurance = ($3,000 x 10%) + ($4,850 x 5%) = $542.50. 29 | Post-Subsidy Hospital bill1 | MediShield Life claim computation Daily ward & treatment charges (2 days normal ward + 8 days ICU) | $8,600 | $8,6002 Surgical procedure (Table 6B) | $1,250 | $1,2503 Total | $9,850 | $9,850 Less deductible4 | - | ($2,000) Claimable amount (less deductible) | - | $7,850 Less co-insurance | - | ($542.50)5 MediShield Life pays | - | $7,307.50 (74%) MediSave and/or Cash | - | $2,542.50 (26%) Example 2: Claim computation for a Singapore Citizen aged 60 who stays in a Ward A (excluding IP/rider coverage) Length of stay: 18 days Procedure performed: Hip replacement Pro-ration factor (hospitalisation charges): 27% Pro-ration factor (surgical charges): 25% Pro-rated MediShield Life Hospital bill Hospital bill 1 claim computation Daily ward & treatment $3,240 $3,2402 charges (18 days $12,000 ($12,000 x 27%) normal ward) Surgical procedure $2,125 $2,1253 $8,500 (Table 5C) ($8,500 x 25%) $1,000 Implant $4,000 $1,0004 ($4,000 x 25%) Total $24,500 $6,365 $6,365 Less deductible5 - - ($3,500) Claimable amount - - $2,865 (less deductible) Less co-insurance - - ($218.25)6 MediShield Life pays - - $2,646.75 (11%) MediSave and/or Cash - - $21,853.25 (89%) 1 As the insured member stayed in"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_19"
+    ],
+    "rag_query": {
+      "query": "What is the co-insurance percentage for the first $5,000 of the claimable amount?"
+    }
+  },
+  {
+    "id": "q_004",
+    "question": "What is the claim limit for kidney dialysis under MediShield Life?",
+    "type": "IKB",
+    "category": "I-A",
+    "difficulty": "easy",
+    "expected_behavior": "answer",
+    "expected_answer": "$1,750 per month",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "| | | morphology group. The claim limits for patients receiving treatment for multiple primary cancers are | | | | | accorded on an application basis; doctors are to send the application form to MOH for assessment. | | | | | | | | | | | | | | Table A: MediShield Life Benefits (continued) (Applicable for admissions or treatments received on or after 1 June 2026) Outpatient Benefits Claim Limits Autologous bone marrow transplant treatment for $6,000 per treatment multiple myeloma Kidney dialysis $1,750 per month Immunosuppressants for organ transplant $710 per month Erythropoietin for chronic kidney failure $220 per month Long-term parenteral nutrition7 $2,200 per month Hyperbaric oxygen therapy7 $780 per treatment Home ventilation and respiratory support service $840 per month Paediatric home care $420 per month Repetitive transcranial magnetic stimulation8 $120 per treatment Negative pressure wound therapy $120 per day Pasteurised donated human milk $85 per day Outpatient parenteral antibiotic therapy9 $90 per day Maximum claim limit Per policy year $200,000 Lifetime No limit 7 Refer to the MOH website for the clinical criteria for long term parenteral nutrition and hyperbaric oxygen therapy 8 A patient can claim from MediShield Life for one initial repetitive transcranial magnetic stimulation (rTMS) course (up to 30 treatments) and one retreatment course (up to 30 treatments) in his lifetime. The retreatment course must start at least 120 days after the initial course is completed to be eligible for MediShield Life claim. For further information, please refer to guidance recommendation published by Ministry of Health’s Medical Technology Advisory Committee (MTAC). 9 The list of subsidised antibiotics for outpatient parenteral antibiotic therapy can be found in the list of subsidised drugs on the MOH website. 7 | | | | | | Table A: MediShield Life Benefits (continued) | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | Outpatient Benefits Claim Limits | | | | | | | | | | | | | | | Autologous bone marrow transplant treatment for | | $6,000 per treatment | | | multiple myeloma | | | | | | | | | | | | | | | Kidney dialysis | | | $1,750 per month | | | | | | | | | | | | Immunosuppressants for organ transplant | | | $710 per month | | | | | | | | | | | | Erythropoietin for chronic kidney failure | | | $220 per month | | | | | | | | | | | | Long-term parenteral nutrition7 | | | $2,200 per month | | | | | | | | | | | | Hyperbaric oxygen therapy7 | | | $780 per treatment | | | | | | | | | | | | Home ventilation and respiratory support service | | | $840 per month | | | | | | | | | | | | Paediatric home care | | | $420 per month | | | | | | | | | | | | Repetitive transcranial magnetic stimulation8 | | | $120 per treatment | | | | | | | | | | | | Negative pressure wound therapy | | | $120 per day | | | | | | | | | | | | Pasteurised donated human milk | | | $85 per day | | | | | | | | | | | | Outpatient parenteral antibiotic therapy9 | | | $90 per day | | | | | | | | | | | | Maximum claim limit | | | | | | | | | | | | | | | Per policy year | | | $200,000 | | | | | | | | | | | | Lifetime | | | No limit | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_4"
+    ],
+    "rag_query": {
+      "query": "What is the claim limit for kidney dialysis under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_005",
+    "question": "What is the premium rebate for a 51-year-old who has been insured under the scheme since age 30?",
+    "type": "IKB",
+    "category": "I-A",
+    "difficulty": "easy",
+    "expected_behavior": "answer",
+    "expected_answer": "$40",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 30 and | | 64 | | | 141 | | | 244 | | | 345 | | | 415 | | | 583 | | | 640 | | | 712 | | | below | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 31 - 40 | | | 54 | | | 106 | | | 183 | | | 259 | | | 312 | | | 438 | | | 480 | | | 534 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 41 - 50 | | | 48 | | | 71 | | | 122 | | | 173 | | | 208 | | | 292 | | | 319 | | | 356 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 51 - 60 | | | 40 | | | 40 | | | 61 | | | 86 | | | 104 | | | 146 | | | 160 | | | 178 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 61 - 70 | | | N.A. | | | 16 | | | 44 | | | 67 | | | 85 | | | 95 | | | 102 | | | 120 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 1 Please refer to the MediShield Life website for the premium rebate table for those born before 1950. | | | | | | | | | | | | | | | | | | | | | | | | | | 2 Premium rebates will be adjusted from time to time in line with the experience of the scheme. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | (as of next birthday) 3.5 What are MediShield Life premium discounts? From 18 September 2025, Singaporeans and Permanent Residents aged 40 and above will be able to exchange their Healthpoints in the Health Promotion Board’s (HPB) Healthy 365 mobile application for MediShield Life premium discounts as part of a three-year pilot programme"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_9"
+    ],
+    "rag_query": {
+      "query": "What is the premium rebate for a 51-year-old who has been insured under the scheme since age 30?"
+    }
+  },
+  {
+    "id": "q_006",
+    "question": "What is the Additional Withdrawal Limit for IP policyholders aged 41-70?",
+    "type": "IKB",
+    "category": "I-A",
+    "difficulty": "easy",
+    "expected_behavior": "answer",
+    "expected_answer": "$600",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "8.2 What is Additional Withdrawal Limit? If you buy an IP cover, you will be able to use MediSave to pay the premium for the additional private insurance coverage component up to the Additional Withdrawal Limits (AWLs). Please refer to Table L on the AWLs for IP covers. Diagram 1: How the AWL is applied to the IP premium Table L: AWLs for IP Policyholders Age Next Birthday AWLs 1 – 40 $300 41 – 70 $600 71 and above $900 34 | | | | | | Table L: AWLs for IP Policyholders | | | | | | | | | Age Next Birthday | | | AWLs | | | | | | | | | | | | | 1 – 40 | | | $300 | | | | | | | | | | | 41 – 70 | | | $600 | | | | | | | | | | | | | 71 and above | | | $900 | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_22"
+    ],
+    "rag_query": {
+      "query": "What is the Additional Withdrawal Limit for IP policyholders aged 41-70?"
+    }
+  },
+  {
+    "id": "q_007",
+    "question": "What is the claim limit for kidney dialysis under MediShield Life?",
+    "type": "IKB",
+    "category": "I-B",
+    "difficulty": "medium",
+    "expected_behavior": "answer",
+    "expected_answer": "$1,750 per month",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "| | | morphology group. The claim limits for patients receiving treatment for multiple primary cancers are | | | | | accorded on an application basis; doctors are to send the application form to MOH for assessment. | | | | | | | | | | | | | | Table A: MediShield Life Benefits (continued) (Applicable for admissions or treatments received on or after 1 June 2026) Outpatient Benefits Claim Limits Autologous bone marrow transplant treatment for $6,000 per treatment multiple myeloma Kidney dialysis $1,750 per month Immunosuppressants for organ transplant $710 per month Erythropoietin for chronic kidney failure $220 per month Long-term parenteral nutrition7 $2,200 per month Hyperbaric oxygen therapy7 $780 per treatment Home ventilation and respiratory support service $840 per month Paediatric home care $420 per month Repetitive transcranial magnetic stimulation8 $120 per treatment Negative pressure wound therapy $120 per day Pasteurised donated human milk $85 per day Outpatient parenteral antibiotic therapy9 $90 per day Maximum claim limit Per policy year $200,000 Lifetime No limit 7 Refer to the MOH website for the clinical criteria for long term parenteral nutrition and hyperbaric oxygen therapy 8 A patient can claim from MediShield Life for one initial repetitive transcranial magnetic stimulation (rTMS) course (up to 30 treatments) and one retreatment course (up to 30 treatments) in his lifetime. The retreatment course must start at least 120 days after the initial course is completed to be eligible for MediShield Life claim. For further information, please refer to guidance recommendation published by Ministry of Health’s Medical Technology Advisory Committee (MTAC). 9 The list of subsidised antibiotics for outpatient parenteral antibiotic therapy can be found in the list of subsidised drugs on the MOH website. 7 | | | | | | Table A: MediShield Life Benefits (continued) | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | Outpatient Benefits Claim Limits | | | | | | | | | | | | | | | Autologous bone marrow transplant treatment for | | $6,000 per treatment | | | multiple myeloma | | | | | | | | | | | | | | | Kidney dialysis | | | $1,750 per month | | | | | | | | | | | | Immunosuppressants for organ transplant | | | $710 per month | | | | | | | | | | | | Erythropoietin for chronic kidney failure | | | $220 per month | | | | | | | | | | | | Long-term parenteral nutrition7 | | | $2,200 per month | | | | | | | | | | | | Hyperbaric oxygen therapy7 | | | $780 per treatment | | | | | | | | | | | | Home ventilation and respiratory support service | | | $840 per month | | | | | | | | | | | | Paediatric home care | | | $420 per month | | | | | | | | | | | | Repetitive transcranial magnetic stimulation8 | | | $120 per treatment | | | | | | | | | | | | Negative pressure wound therapy | | | $120 per day | | | | | | | | | | | | Pasteurised donated human milk | | | $85 per day | | | | | | | | | | | | Outpatient parenteral antibiotic therapy9 | | | $90 per day | | | | | | | | | | | | Maximum claim limit | | | | | | | | | | | | | | | Per policy year | | | $200,000 | | | | | | | | | | | | Lifetime | | | No limit | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_4"
+    ],
+    "rag_query": {
+      "query": "What is the claim limit for kidney dialysis under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_008",
+    "question": "How is the pro-ration factor applied to hospitalisation charges for Singapore Citizens in Ward C?",
+    "type": "IKB",
+    "category": "I-B",
+    "difficulty": "medium",
+    "expected_behavior": "answer",
+    "expected_answer": "100%",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "bills pro-rated before claims under MediShield Life are computed. The applicable pro-ration factors are shown in Tables G, H and I. Table G: Pro-ration Factors for Hospitalisation Charges (Applicable for admissions or treatments received on or after 1 April 2025) Singapore Permanent Ward Class / Subsidy Status Citizen Resident Class C 100% 50% Class B2 100% 50% Class B2+ 100% 50% Class B1 34% 29% Class A 27% 25% Private hospital 16% 16% Community hospital (subsidised) 100% 60% Community hospital (non-subsidised) 45% 37% Inpatient palliative care service (subsidised) 100% 60% Inpatient palliative care service (non-subsidised) 45% 37% Short stay ward (subsidised) 100% 50% Short stay ward (non-subsidised) 27% 25% Day surgery (subsidised) 100% 54% Day surgery (public hospital non-subsidised) 33% 33% Day surgery (private hospital) 21% 21% 23 | | | | | | | | | Table G: Pro-ration Factors for Hospitalisation Charges | | | | | | | | (Applicable for admissions or treatments received on or after 1 April 2025) | | | | | | | | | | | | | | | | | | | | | | | Ward Class / Subsidy Status | | | | Singapore | | | Permanent | | | | | Citizen | | | Resident | | | | | | | | | | | | | | | | | | Class C | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2 | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2+ | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B1 | | | 34% | | | 29% | | | | | | | | | | | | | | | | | | Class A | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Private hospital | | | 16% | | | 16% | | | | | | | | | | | | | | | | | | Community hospital (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Community hospital (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Short stay ward (subsidised) | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Short stay ward (non-subsidised) | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Day surgery (subsidised) | | | 100% | | | 54% | | | | | | | | | | | | | | | | | | Day surgery (public hospital non-subsidised) | | | 33% | | | 33% | | | | | | | | | | | | | | | | | | Day surgery (private hospital) | | | 21% | | | 21% | | | | | | | | | Table H: Pro-ration Factors for Outpatient Charges (Applicable"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_15"
+    ],
+    "rag_query": {
+      "query": "How is the pro-ration factor applied to hospitalisation charges for Singapore Citizens in Ward C?"
+    }
+  },
+  {
+    "id": "q_009",
+    "question": "What is the deductible for a Singapore Citizen aged 60 who stays in a Ward A?",
+    "type": "IKB",
+    "category": "I-B",
+    "difficulty": "medium",
+    "expected_behavior": "answer",
+    "expected_answer": "$3,500",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "start of the policy year) | | | | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | | | | | | | | | | Ward class / treatment | | | 80 and below | | | 81 and above | | | | | | | | | | | | | | | | | | Class C | | | $2,000 | | | $2,750 | | | | | | | | | | | | | | | | | Class B2/B2+/B1 | | | $2,500 | | | $3,500 | | | | | | | | | | | | | | | | | | | Class A (including private hospitals) | | | $3,500 | | | $4,500 | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,000 | | | $2,750 | | | Inpatient palliative care service | | | | | | | | (Subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,500 | | | $3,500 | | | Inpatient palliative care service (Non- | | | | | | | | subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Day surgery | | | $1,500 | | | $2,000 | | | | | | | | | | | | | | | | | | Outpatient treatments | | | $500 | | | | | | | | | | | | Illustration of how the deductible works (The examples are based on assumptions that the members are below 80 years old and stay in Ward C. The deductible is $2,000 per policy year. Payouts from MediShield Life are subject to claim limits.) Scenario A: Mr. A is hospitalised once in each policy year. 1st hospitalisation 2nd hospitalisation Claimable Amount: $3,000 Claimable Amount: $2,500 Deductible: $2,000 Deductible: $2,000 As the claimable amount is above As the claimable amount is above the deductible, there is payout from the deductible, there is payout from MediShield Life MediShield Life Policy Year: 1 Apr 25 – 31 Mar 26 Policy Year: 1 Apr 2026 – 31 Mar 2027 1 April 1 April 1 April 2025 2026 2027 1st hospitalisation 2nd hospitalisation Claimable Amount: $1,000 Claimable Amount: $2,000 Deductible: $2,000 Deductible Balance for Policy Year: $1,000 As the claimable amount is less than the deductible of As Mr B had paid the deductible of $2,000, there is no payout $1,000 during the 1st hospitalisation, he from MediShield Life. only needs to pay the balance deductible of $1,000 for the 2nd hospitalisation. Scenario B: Mr. B is hospitalised twice in the same policy year. 26 Mr. B is hospitalised twice in the same policy year. 6.3 What is co-insurance? Co-insurance is the percentage of the claimable amount that you need to pay. Table K gives the breakdown of the co-insurance percentage by setting. Table K: Co-insurance Inpatient/ day surgery/ outpatient Claimable amount accumulated within a policy year First $5,0001 10% Next $5,000 5% Above $10,000 3% 1 Inclusive of deductible 27 | | | | | | Table K: Co-insurance | | | | | | | | | | | | | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_18"
+    ],
+    "rag_query": {
+      "query": "What is the deductible for a Singapore Citizen aged 60 who stays in a Ward A?"
+    }
+  },
+  {
+    "id": "q_010",
+    "question": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?",
+    "type": "IKB",
+    "category": "I-C",
+    "difficulty": "medium",
+    "expected_behavior": "answer",
+    "expected_answer": "$295",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "78 $2,027 31 – 40 $503 79 – 80 $2,187 41 – 50 $637 81 – 83 $2,303 51 – 60 $903 84 – 85 $2,616 61 – 65 $1,131 86 – 88 $2,785 66 – 70 $1,326 89 – 90 $2,785 71 – 73 $1,643 >90 $2,826 The annual premiums can be fully paid using MediSave. You can pay your premium from your MediSave, or your family members (i.e. spouse, parents, children, grandchildren or siblings) may pay your premium using their MediSave. Premiums (after any applicable subsidies) are automatically deducted from your (or your payer’s) MediSave each year. If there is insufficient balance in the MediSave Account to pay the premiums, you (or your payer) will be informed to top up your (or your payer’s) MediSave or arrange a family member to help pay the premiums. For more details, please visit cpf.gov.sg/PremiumPayment. 10 | | | | | | | | | | | | Table B: Premiums (before subsidies) | | | | | | | | | | | (Applicable for policy start/renewal date on or after 1 April 2025) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Age Next | | | Annual Premiums | | | Age Next | | | Annual Premiums | | Birthday | | | (Inclusive of 9% GST) | | | Birthday | | | (Inclusive of 9% GST) | | | | | | | | | | | | | | | | | | | | | | | | 1 – 20 | | | $200 | | | 74 – 75 | | | $1,816 | | | | | | | | | | | | | | | | | | | | | | | | 21 – 30 | | | $295 | | | 76 – 78 | | | $2,027 | | | | | | | | | | | | | | | | | | | | | | | | 31 – 40 | | | $503 | | | 79 – 80 | | | $2,187 | | | | | | | | | | | | | | | | | | | | | | | | 41 – 50 | | | $637 | | | 81 – 83 | | | $2,303 | | | | | | | | | | | | | | | | | | | | | | | | 51 – 60 | | | $903 | | | 84 – 85 | | | $2,616 | | | | | | | | | | | | | | | | | | | | | | | | 61 – 65 | | | $1,131 | | | 86 – 88 | | | $2,785 | | | | | | | | | | | | | | | | | | | | | | | | 66 – 70 | | | $1,326 | | | 89 – 90 | | | $2,785 | | | | | | | | | | | | | | | | | | | | | | | | 71 – 73 | | | $1,643 | | | >90 | | | $2,826 | | | | | | | | | | | | 3.3 Who needs to pay Additional Premiums? Under MediShield Life, those with pre-existing medical conditions can enjoy coverage for their conditions. Only those with serious pre-existing medical conditions need to pay an Additional Premium of 30% for the first 10 years, in addition to the standard MediShield Life premiums. A pre-existing condition is a medical condition or illness that an individual already has before he is covered under an insurance plan. If the medical"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_7"
+    ],
+    "rag_query": {
+      "query": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?"
+    }
+  },
+  {
+    "id": "q_011",
+    "question": "How much is the deductible for a 75-year-old Singapore Citizen staying in a Ward C?",
+    "type": "IKB",
+    "category": "I-C",
+    "difficulty": "medium",
+    "expected_behavior": "answer",
+    "expected_answer": "$2,750",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "start of the policy year) | | | | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | | | | | | | | | | Ward class / treatment | | | 80 and below | | | 81 and above | | | | | | | | | | | | | | | | | | Class C | | | $2,000 | | | $2,750 | | | | | | | | | | | | | | | | | Class B2/B2+/B1 | | | $2,500 | | | $3,500 | | | | | | | | | | | | | | | | | | | Class A (including private hospitals) | | | $3,500 | | | $4,500 | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,000 | | | $2,750 | | | Inpatient palliative care service | | | | | | | | (Subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,500 | | | $3,500 | | | Inpatient palliative care service (Non- | | | | | | | | subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Day surgery | | | $1,500 | | | $2,000 | | | | | | | | | | | | | | | | | | Outpatient treatments | | | $500 | | | | | | | | | | | | Illustration of how the deductible works (The examples are based on assumptions that the members are below 80 years old and stay in Ward C. The deductible is $2,000 per policy year. Payouts from MediShield Life are subject to claim limits.) Scenario A: Mr. A is hospitalised once in each policy year. 1st hospitalisation 2nd hospitalisation Claimable Amount: $3,000 Claimable Amount: $2,500 Deductible: $2,000 Deductible: $2,000 As the claimable amount is above As the claimable amount is above the deductible, there is payout from the deductible, there is payout from MediShield Life MediShield Life Policy Year: 1 Apr 25 – 31 Mar 26 Policy Year: 1 Apr 2026 – 31 Mar 2027 1 April 1 April 1 April 2025 2026 2027 1st hospitalisation 2nd hospitalisation Claimable Amount: $1,000 Claimable Amount: $2,000 Deductible: $2,000 Deductible Balance for Policy Year: $1,000 As the claimable amount is less than the deductible of As Mr B had paid the deductible of $2,000, there is no payout $1,000 during the 1st hospitalisation, he from MediShield Life. only needs to pay the balance deductible of $1,000 for the 2nd hospitalisation. Scenario B: Mr. B is hospitalised twice in the same policy year. 26 Mr. B is hospitalised twice in the same policy year. 6.3 What is co-insurance? Co-insurance is the percentage of the claimable amount that you need to pay. Table K gives the breakdown of the co-insurance percentage by setting. Table K: Co-insurance Inpatient/ day surgery/ outpatient Claimable amount accumulated within a policy year First $5,0001 10% Next $5,000 5% Above $10,000 3% 1 Inclusive of deductible 27 | | | | | | Table K: Co-insurance | | | | | | | | | | | | | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_18"
+    ],
+    "rag_query": {
+      "query": "How much is the deductible for a 75-year-old Singapore Citizen staying in a Ward C?"
+    }
+  },
+  {
+    "id": "q_012",
+    "question": "What is the co-insurance percentage for the first $5,000 of the claimable amount?",
+    "type": "IKB",
+    "category": "I-C",
+    "difficulty": "medium",
+    "expected_behavior": "answer",
+    "expected_answer": "10%",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "| | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | | | | | 1 Inclusive of deductible | | | | | | | | | Illustration of how co-insurance works (The example is based on a claimable amount of $12,000 and deductible of $2,000.) Bill above Claim Limits (payable using MediSave/cash) You pay Above $60 MediShield Life $10,000 (3% of pays $1,940 $2,000) You pay $250 MediShield Life Claimable Next $5,000 (5% of pays $4,750 Amount $5,000) $12,000 First $5,000 You pay $300* MediShield Life (Inclusive of (10% of $3,000) pays $2,700 $2,000 deductible) Deductibl e ($2,000) You pay $610 of MediShield Life pays co-insurance with $9,390 MediSave/ cash * If a deductible is payable, the co-insurance of 10% is applied on the amount above the deductible. In this case, as the deductible is $2,000, the co-insurance for the first $5,000 will be 10% of the remaining $3,000 which is $300. 28 Bill above Claim Limits (payable using MediSave/cash) You pay $60 (3% of $2,000) You pay $250 (5% of $5,000) You pay $300* (10% of $3,000) Deductibl e ($2,000) You pay $610 of co-insurance with MediSave/ cash | MediShield Life pays $9,390 6.4 How are claims computed? Example 1: Claim computation for a Singapore Citizen aged 35 who stays in a Ward C (excluding IP/rider coverage) Length of stay: 10 days (including 8 days in ICU) Procedure performed: Stomach operation Post-Subsidy MediShield Life Hospital bill1 claim computation Daily ward & treatment charges $8,600 $8,6002 (2 days normal ward + 8 days ICU) Surgical procedure (Table 6B) $1,250 $1,2503 Total $9,850 $9,850 Less deductible4 - ($2,000) Claimable amount - $7,850 (less deductible) Less co-insurance - ($542.50)5 MediShield Life pays - $7,307.50 (74%) MediSave and/or Cash - $2,542.50 (26%) 1 As the insured member is a Singapore Citizen who stayed in Ward C, the MediShield Life claim is computed based on 100% of the bill. 2 Lower of the claim limit for Daily Ward & Treatment Charges, [($830 x 2 days) + ($5,140 x 8 days) +($800 x 2 days)] = $44,380, or 100% of charges incurred of $8,600. Therefore, the claimable amount is $8,600. 3 Lower of the claim limit in Table A for surgical procedure, $3,540 (Table 6B), or 100% of charges incurred of $1,250. Therefore, the claimable amount is $1,250. 4 The insured member is below 80 years old, subject to deductible of $2,000 for Ward C. 5 Co-insurance = ($3,000 x 10%) + ($4,850 x 5%) = $542.50. 29 | Post-Subsidy Hospital bill1 | MediShield Life claim computation Daily ward & treatment charges (2 days normal ward + 8 days ICU) | $8,600 | $8,6002 Surgical procedure (Table 6B) | $1,250 | $1,2503 Total | $9,850 | $9,850 Less deductible4 | - | ($2,000) Claimable amount (less deductible) | - | $7,850 Less co-insurance | - | ($542.50)5 MediShield Life pays | - | $7,307.50 (74%) MediSave and/or Cash | - | $2,542.50 (26%) Example 2: Claim computation for a Singapore Citizen aged 60 who stays in a Ward A (excluding IP/rider coverage) Length of stay: 18 days Procedure performed: Hip replacement Pro-ration factor (hospitalisation charges): 27% Pro-ration factor (surgical charges): 25% Pro-rated MediShield Life Hospital bill Hospital bill 1 claim computation Daily ward & treatment $3,240 $3,2402 charges (18 days $12,000 ($12,000 x 27%) normal ward) Surgical procedure $2,125 $2,1253 $8,500 (Table 5C) ($8,500 x 25%) $1,000 Implant $4,000 $1,0004 ($4,000 x 25%) Total $24,500 $6,365 $6,365 Less deductible5 - - ($3,500) Claimable amount - - $2,865 (less deductible) Less co-insurance - - ($218.25)6 MediShield Life pays - - $2,646.75 (11%) MediSave and/or Cash - - $21,853.25 (89%) 1 As the insured member stayed in"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_19"
+    ],
+    "rag_query": {
+      "query": "What is the co-insurance percentage for the first $5,000 of the claimable amount?"
+    }
+  },
+  {
+    "id": "q_013",
+    "question": "What is the Additional Withdrawal Limit for a 50-year-old IP policyholder?",
+    "type": "IKB",
+    "category": "I-C",
+    "difficulty": "medium",
+    "expected_behavior": "answer",
+    "expected_answer": "$600",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "8.2 What is Additional Withdrawal Limit? If you buy an IP cover, you will be able to use MediSave to pay the premium for the additional private insurance coverage component up to the Additional Withdrawal Limits (AWLs). Please refer to Table L on the AWLs for IP covers. Diagram 1: How the AWL is applied to the IP premium Table L: AWLs for IP Policyholders Age Next Birthday AWLs 1 – 40 $300 41 – 70 $600 71 and above $900 34 | | | | | | Table L: AWLs for IP Policyholders | | | | | | | | | Age Next Birthday | | | AWLs | | | | | | | | | | | | | 1 – 40 | | | $300 | | | | | | | | | | | 41 – 70 | | | $600 | | | | | | | | | | | | | 71 and above | | | $900 | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_22"
+    ],
+    "rag_query": {
+      "query": "What is the Additional Withdrawal Limit for a 50-year-old IP policyholder?"
+    }
+  },
+  {
+    "id": "q_014",
+    "question": "What is the claim limit for daily ward and treatment charges for a normal ward in a public hospital for a Singapore Citizen?",
+    "type": "IKB",
+    "category": "I-D",
+    "difficulty": "hard",
+    "expected_behavior": "answer",
+    "expected_answer": "$830 per day",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "subsidised bills incurred for hospitalisations in Ward B2/C and subsidised outpatient/day surgery treatments in public hospitals. Patients who seek treatments in unsubsidised wards or unsubsidised outpatient treatments in public hospitals, as well as private hospital patients, will also be able to benefit from MediShield Life. However, as unsubsidised and private bills are higher, MediShield Life will cover a comparatively smaller portion of the bill. 4 Table A: MediShield Life Benefits (Applicable for admissions or treatments received on or after 1 June 2026) Inpatient/ Day Surgery Benefits Claim Limits Daily Ward and Treatment Charges1 - Normal ward2 $830 per day* - Intensive care unit ward $5,140 per day* * An additional claim limit of $800 per day applies for the first two days of the inpatient2 stay - Psychiatric (up to 60 days per policy year) $230 per day - Community hospital (Rehabilitative)3 $370 per day - Community hospital (Sub-acute)3 $570 per day - Inpatient palliative care service (General) $460 per day - Inpatient palliative care service $500 per day (Specialised) Surgical procedures A B C - Table 1 A/B/C (less complex procedures) $240 $420 $490 - Table 2 A/B/C $760 $1,120 $1,120 - Table 3 A/B/C $1,390 $1,740 $1,920 - Table 4 A/B/C $2,310 $2,370 $2,460 - Table 5 A/B/C $2,700 $3,270 $3,270 - Table 6 A/B/C $3,540 $3,540 $3,540 - Table 7 A/B/C (more complex procedures) $3,900 $3,900 $3,900 Implants $7,000 per treatment 1 Includes meal charges, prescriptions, professional charges, investigations and other miscellaneous charges 2 Includes eligible Mobile Inpatient Care @ Home stays 3 Claimable only upon referral from a hospital after an inpatient admission or from a public hospital’s emergency department for further medical treatment. 5 | | | | | | | | | Table A: MediShield Life Benefits | | | | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | | | | | | | | | | Inpatient/ Day Surgery Benefits | | Claim Limits | | | | | | | | | | | | | | | | | | | | | | Daily Ward and Treatment Charges1 | | | | | | | | | | | | | | | | | | | | | | | | - Normal ward2 | | | $830 per day* | | | | | | | | | | | | | | | | | | | | | - Intensive care unit ward | | | $5,140 per day* | | | | | | | | | | | | | | | | | | | | | * An additional claim limit of $800 per day applies for the first two days of the | | | | | | | | inpatient2 stay | | | | | | | | | | | | | | | | | | | | | | | | - Psychiatric (up to 60 days per policy year) | | | $230 per day | | | | | | | | | | | | | | | | | | | | | - Community hospital (Rehabilitative)3 | | | $370 per day | | | | | | | | | | | | | | | | | | | | | - Community hospital (Sub-acute)3 | | | $570 per day | | | | | | | | | | | | | | | | | | | | | - Inpatient palliative care service (General) | | | $460 per day | | | | | | | | | | | | | | | | | | | | | - Inpatient palliative care service | | $500 per day | | | | | | (Specialised) | | | | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_1"
+    ],
+    "rag_query": {
+      "query": "What is the claim limit for daily ward and treatment charges for a normal ward in a public hospital for a Singapore Citizen?"
+    }
+  },
+  {
+    "id": "q_015",
+    "question": "How much is the premium rebate for a 51-year-old who has been insured under the scheme since the age of 30?",
+    "type": "IKB",
+    "category": "I-D",
+    "difficulty": "hard",
+    "expected_behavior": "answer",
+    "expected_answer": "$40",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 30 and | | 64 | | | 141 | | | 244 | | | 345 | | | 415 | | | 583 | | | 640 | | | 712 | | | below | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 31 - 40 | | | 54 | | | 106 | | | 183 | | | 259 | | | 312 | | | 438 | | | 480 | | | 534 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 41 - 50 | | | 48 | | | 71 | | | 122 | | | 173 | | | 208 | | | 292 | | | 319 | | | 356 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 51 - 60 | | | 40 | | | 40 | | | 61 | | | 86 | | | 104 | | | 146 | | | 160 | | | 178 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 61 - 70 | | | N.A. | | | 16 | | | 44 | | | 67 | | | 85 | | | 95 | | | 102 | | | 120 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 1 Please refer to the MediShield Life website for the premium rebate table for those born before 1950. | | | | | | | | | | | | | | | | | | | | | | | | | | 2 Premium rebates will be adjusted from time to time in line with the experience of the scheme. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | (as of next birthday) 3.5 What are MediShield Life premium discounts? From 18 September 2025, Singaporeans and Permanent Residents aged 40 and above will be able to exchange their Healthpoints in the Health Promotion Board’s (HPB) Healthy 365 mobile application for MediShield Life premium discounts as part of a three-year pilot programme"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_9"
+    ],
+    "rag_query": {
+      "query": "How much is the premium rebate for a 51-year-old who has been insured under the scheme since the age of 30?"
+    }
+  },
+  {
+    "id": "q_016",
+    "question": "What is the pro-ration factor for hospitalisation charges for a Singapore Citizen staying in a Class C ward?",
+    "type": "IKB",
+    "category": "I-D",
+    "difficulty": "hard",
+    "expected_behavior": "answer",
+    "expected_answer": "100%",
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "bills pro-rated before claims under MediShield Life are computed. The applicable pro-ration factors are shown in Tables G, H and I. Table G: Pro-ration Factors for Hospitalisation Charges (Applicable for admissions or treatments received on or after 1 April 2025) Singapore Permanent Ward Class / Subsidy Status Citizen Resident Class C 100% 50% Class B2 100% 50% Class B2+ 100% 50% Class B1 34% 29% Class A 27% 25% Private hospital 16% 16% Community hospital (subsidised) 100% 60% Community hospital (non-subsidised) 45% 37% Inpatient palliative care service (subsidised) 100% 60% Inpatient palliative care service (non-subsidised) 45% 37% Short stay ward (subsidised) 100% 50% Short stay ward (non-subsidised) 27% 25% Day surgery (subsidised) 100% 54% Day surgery (public hospital non-subsidised) 33% 33% Day surgery (private hospital) 21% 21% 23 | | | | | | | | | Table G: Pro-ration Factors for Hospitalisation Charges | | | | | | | | (Applicable for admissions or treatments received on or after 1 April 2025) | | | | | | | | | | | | | | | | | | | | | | | Ward Class / Subsidy Status | | | | Singapore | | | Permanent | | | | | Citizen | | | Resident | | | | | | | | | | | | | | | | | | Class C | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2 | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2+ | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B1 | | | 34% | | | 29% | | | | | | | | | | | | | | | | | | Class A | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Private hospital | | | 16% | | | 16% | | | | | | | | | | | | | | | | | | Community hospital (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Community hospital (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Short stay ward (subsidised) | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Short stay ward (non-subsidised) | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Day surgery (subsidised) | | | 100% | | | 54% | | | | | | | | | | | | | | | | | | Day surgery (public hospital non-subsidised) | | | 33% | | | 33% | | | | | | | | | | | | | | | | | | Day surgery (private hospital) | | | 21% | | | 21% | | | | | | | | | Table H: Pro-ration Factors for Outpatient Charges (Applicable"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_15"
+    ],
+    "rag_query": {
+      "query": "What is the pro-ration factor for hospitalisation charges for a Singapore Citizen staying in a Class C ward?"
+    }
+  },
+  {
+    "id": "q_017",
+    "question": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?",
+    "type": "OOKB",
+    "category": "A",
+    "difficulty": "easy",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?"
+    }
+  },
+  {
+    "id": "q_018",
+    "question": "Can a Singapore Citizen aged 60 who stays in a Ward A claim for the full hospital bill under MediShield Life?",
+    "type": "OOKB",
+    "category": "A",
+    "difficulty": "easy",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "Can a Singapore Citizen aged 60 who stays in a Ward A claim for the full hospital bill under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_019",
+    "question": "What is the deductible for a Singapore Citizen aged 40 who stays in a Ward B2?",
+    "type": "OOKB",
+    "category": "A",
+    "difficulty": "easy",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "What is the deductible for a Singapore Citizen aged 40 who stays in a Ward B2?"
+    }
+  },
+  {
+    "id": "q_020",
+    "question": "Is ambulance fee covered under the MediShield Life Scheme?",
+    "type": "OOKB",
+    "category": "A",
+    "difficulty": "easy",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "Is ambulance fee covered under the MediShield Life Scheme?"
+    }
+  },
+  {
+    "id": "q_021",
+    "question": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?",
+    "type": "OOKB",
+    "category": "B",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?"
+    }
+  },
+  {
+    "id": "q_022",
+    "question": "Can a Permanent Resident receive the same premium subsidies as a Singapore Citizen under MediShield Life?",
+    "type": "OOKB",
+    "category": "B",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "Can a Permanent Resident receive the same premium subsidies as a Singapore Citizen under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_023",
+    "question": "How is the pro-ration factor applied to hospitalisation charges for a Singapore Citizen staying in a Class C ward?",
+    "type": "OOKB",
+    "category": "B",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "How is the pro-ration factor applied to hospitalisation charges for a Singapore Citizen staying in a Class C ward?"
+    }
+  },
+  {
+    "id": "q_024",
+    "question": "What is the deductible for a 75-year-old Singapore Citizen staying in a Ward C under MediShield Life?",
+    "type": "OOKB",
+    "category": "B",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "What is the deductible for a 75-year-old Singapore Citizen staying in a Ward C under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_025",
+    "question": "Can an individual use MediSave to pay for the additional private insurance coverage component of an Integrated Shield Plan?",
+    "type": "OOKB",
+    "category": "B",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "Can an individual use MediSave to pay for the additional private insurance coverage component of an Integrated Shield Plan?"
+    }
+  },
+  {
+    "id": "q_026",
+    "question": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?",
+    "type": "OOKB",
+    "category": "C",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?"
+    }
+  },
+  {
+    "id": "q_027",
+    "question": "Can a Permanent Resident receive Premium Subsidies under MediShield Life?",
+    "type": "OOKB",
+    "category": "C",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "Can a Permanent Resident receive Premium Subsidies under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_028",
+    "question": "What is the claim limit for cancer drug treatment under MediShield Life for patients receiving treatment for one primary cancer?",
+    "type": "OOKB",
+    "category": "C",
+    "difficulty": "medium",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": null,
+    "source_chunk_ids": null,
+    "rag_query": {
+      "query": "What is the claim limit for cancer drug treatment under MediShield Life for patients receiving treatment for one primary cancer?"
+    }
+  },
+  {
+    "id": "q_029",
+    "question": "What is the claim limit for daily ward and treatment charges for a normal ward under MediShield Life?",
+    "type": "OOKB",
+    "category": "D",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "subsidised bills incurred for hospitalisations in Ward B2/C and subsidised outpatient/day surgery treatments in public hospitals. Patients who seek treatments in unsubsidised wards or unsubsidised outpatient treatments in public hospitals, as well as private hospital patients, will also be able to benefit from MediShield Life. However, as unsubsidised and private bills are higher, MediShield Life will cover a comparatively smaller portion of the bill. 4 Table A: MediShield Life Benefits (Applicable for admissions or treatments received on or after 1 June 2026) Inpatient/ Day Surgery Benefits Claim Limits Daily Ward and Treatment Charges1 - Normal ward2 $830 per day* - Intensive care unit ward $5,140 per day* * An additional claim limit of $800 per day applies for the first two days of the inpatient2 stay - Psychiatric (up to 60 days per policy year) $230 per day - Community hospital (Rehabilitative)3 $370 per day - Community hospital (Sub-acute)3 $570 per day - Inpatient palliative care service (General) $460 per day - Inpatient palliative care service $500 per day (Specialised) Surgical procedures A B C - Table 1 A/B/C (less complex procedures) $240 $420 $490 - Table 2 A/B/C $760 $1,120 $1,120 - Table 3 A/B/C $1,390 $1,740 $1,920 - Table 4 A/B/C $2,310 $2,370 $2,460 - Table 5 A/B/C $2,700 $3,270 $3,270 - Table 6 A/B/C $3,540 $3,540 $3,540 - Table 7 A/B/C (more complex procedures) $3,900 $3,900 $3,900 Implants $7,000 per treatment 1 Includes meal charges, prescriptions, professional charges, investigations and other miscellaneous charges 2 Includes eligible Mobile Inpatient Care @ Home stays 3 Claimable only upon referral from a hospital after an inpatient admission or from a public hospital’s emergency department for further medical treatment. 5 | | | | | | | | | Table A: MediShield Life Benefits | | | | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | | | | | | | | | | Inpatient/ Day Surgery Benefits | | Claim Limits | | | | | | | | | | | | | | | | | | | | | | Daily Ward and Treatment Charges1 | | | | | | | | | | | | | | | | | | | | | | | | - Normal ward2 | | | $830 per day* | | | | | | | | | | | | | | | | | | | | | - Intensive care unit ward | | | $5,140 per day* | | | | | | | | | | | | | | | | | | | | | * An additional claim limit of $800 per day applies for the first two days of the | | | | | | | | inpatient2 stay | | | | | | | | | | | | | | | | | | | | | | | | - Psychiatric (up to 60 days per policy year) | | | $230 per day | | | | | | | | | | | | | | | | | | | | | - Community hospital (Rehabilitative)3 | | | $370 per day | | | | | | | | | | | | | | | | | | | | | - Community hospital (Sub-acute)3 | | | $570 per day | | | | | | | | | | | | | | | | | | | | | - Inpatient palliative care service (General) | | | $460 per day | | | | | | | | | | | | | | | | | | | | | - Inpatient palliative care service | | $500 per day | | | | | | (Specialised) | | | | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_1"
+    ],
+    "rag_query": {
+      "query": "What is the claim limit for daily ward and treatment charges for a normal ward under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_030",
+    "question": "How is the pro-ration factor applied to hospitalisation charges for Singapore Citizens and Permanent Residents under MediShield Life?",
+    "type": "OOKB",
+    "category": "D",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "bills pro-rated before claims under MediShield Life are computed. The applicable pro-ration factors are shown in Tables G, H and I. Table G: Pro-ration Factors for Hospitalisation Charges (Applicable for admissions or treatments received on or after 1 April 2025) Singapore Permanent Ward Class / Subsidy Status Citizen Resident Class C 100% 50% Class B2 100% 50% Class B2+ 100% 50% Class B1 34% 29% Class A 27% 25% Private hospital 16% 16% Community hospital (subsidised) 100% 60% Community hospital (non-subsidised) 45% 37% Inpatient palliative care service (subsidised) 100% 60% Inpatient palliative care service (non-subsidised) 45% 37% Short stay ward (subsidised) 100% 50% Short stay ward (non-subsidised) 27% 25% Day surgery (subsidised) 100% 54% Day surgery (public hospital non-subsidised) 33% 33% Day surgery (private hospital) 21% 21% 23 | | | | | | | | | Table G: Pro-ration Factors for Hospitalisation Charges | | | | | | | | (Applicable for admissions or treatments received on or after 1 April 2025) | | | | | | | | | | | | | | | | | | | | | | | Ward Class / Subsidy Status | | | | Singapore | | | Permanent | | | | | Citizen | | | Resident | | | | | | | | | | | | | | | | | | Class C | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2 | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2+ | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B1 | | | 34% | | | 29% | | | | | | | | | | | | | | | | | | Class A | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Private hospital | | | 16% | | | 16% | | | | | | | | | | | | | | | | | | Community hospital (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Community hospital (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Short stay ward (subsidised) | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Short stay ward (non-subsidised) | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Day surgery (subsidised) | | | 100% | | | 54% | | | | | | | | | | | | | | | | | | Day surgery (public hospital non-subsidised) | | | 33% | | | 33% | | | | | | | | | | | | | | | | | | Day surgery (private hospital) | | | 21% | | | 21% | | | | | | | | | Table H: Pro-ration Factors for Outpatient Charges (Applicable"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_15"
+    ],
+    "rag_query": {
+      "query": "How is the pro-ration factor applied to hospitalisation charges for Singapore Citizens and Permanent Residents under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_031",
+    "question": "What is the deductible amount for a Singapore Citizen aged 60 who stays in a Ward A under MediShield Life?",
+    "type": "OOKB",
+    "category": "D",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "start of the policy year) | | | | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | | | | | | | | | | Ward class / treatment | | | 80 and below | | | 81 and above | | | | | | | | | | | | | | | | | | Class C | | | $2,000 | | | $2,750 | | | | | | | | | | | | | | | | | Class B2/B2+/B1 | | | $2,500 | | | $3,500 | | | | | | | | | | | | | | | | | | | Class A (including private hospitals) | | | $3,500 | | | $4,500 | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,000 | | | $2,750 | | | Inpatient palliative care service | | | | | | | | (Subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,500 | | | $3,500 | | | Inpatient palliative care service (Non- | | | | | | | | subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Day surgery | | | $1,500 | | | $2,000 | | | | | | | | | | | | | | | | | | Outpatient treatments | | | $500 | | | | | | | | | | | | Illustration of how the deductible works (The examples are based on assumptions that the members are below 80 years old and stay in Ward C. The deductible is $2,000 per policy year. Payouts from MediShield Life are subject to claim limits.) Scenario A: Mr. A is hospitalised once in each policy year. 1st hospitalisation 2nd hospitalisation Claimable Amount: $3,000 Claimable Amount: $2,500 Deductible: $2,000 Deductible: $2,000 As the claimable amount is above As the claimable amount is above the deductible, there is payout from the deductible, there is payout from MediShield Life MediShield Life Policy Year: 1 Apr 25 – 31 Mar 26 Policy Year: 1 Apr 2026 – 31 Mar 2027 1 April 1 April 1 April 2025 2026 2027 1st hospitalisation 2nd hospitalisation Claimable Amount: $1,000 Claimable Amount: $2,000 Deductible: $2,000 Deductible Balance for Policy Year: $1,000 As the claimable amount is less than the deductible of As Mr B had paid the deductible of $2,000, there is no payout $1,000 during the 1st hospitalisation, he from MediShield Life. only needs to pay the balance deductible of $1,000 for the 2nd hospitalisation. Scenario B: Mr. B is hospitalised twice in the same policy year. 26 Mr. B is hospitalised twice in the same policy year. 6.3 What is co-insurance? Co-insurance is the percentage of the claimable amount that you need to pay. Table K gives the breakdown of the co-insurance percentage by setting. Table K: Co-insurance Inpatient/ day surgery/ outpatient Claimable amount accumulated within a policy year First $5,0001 10% Next $5,000 5% Above $10,000 3% 1 Inclusive of deductible 27 | | | | | | Table K: Co-insurance | | | | | | | | | | | | | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_18"
+    ],
+    "rag_query": {
+      "query": "What is the deductible amount for a Singapore Citizen aged 60 who stays in a Ward A under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_032",
+    "question": "Can a Permanent Resident aged 40 who stays in Ward B2 claim for surgical procedure charges under MediShield Life?",
+    "type": "OOKB",
+    "category": "D",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "or 60% of charges incurred of $1,350 = $810. Therefore, the claimable amount is $810. 4 The insured member is below 80 years old, subject to deductible of $2,000 for Ward B2. 5 Co-insurance= ($2,500 x 10%) + ($5,000 x 5%) + ($1,480 x 3%) = $544.40 31 | Post-subsidy Hospital bill | Pro-rated Hospital bill1 | | MediShield | | | | | Life claim | | | | | computation | Daily ward & treatment charges (52 days + 2 days ICU) | $21,340 | $10,670.00 ($21,340 x 50%) | $10,670.002 | | Surgical procedure (Table 6B) | $1,350 | $810 ($1,350 x 60%) | $8103 | | Total | $22,690 | $11,480.00 | $11,480.00 | | Less deductible4 | - | - | ($2,500) | | Claimable amount (less deductible) | - | - | $8,980.0 | | Less co-insurance | - | - | ($544.40)5 | | MediShield Life pays | - | - | $8,435.60 (37%) | | MediSave and/or Cash | - | - | $14,254.40 (63%) | | Post-subsidy Hospital bill Pro-rated Hospital bill1 7. Exclusions under the MediShield Life Scheme The following treatment items, procedures, conditions, activities are not covered by MediShield Life and cannot be claimed (Applicable for admissions or treatments received on or after 1 March 2021): • Ambulance fees • Cosmetic surgery • Dental work (except due to accidental injuries) • Vaccination • Infertility, sub-fertility, assisted conception or any contraceptive operation, including related complications (other than surgical procedures associated with freezing of any embryo, egg or ovarian tissue in cases of potential iatrogenic infertility) • Sex change operations, including their related complications • Maternity charges (including Caesarean operations) or abortions, including related complications, except treatments for serious complications related to pregnancy and childbirth • Treatment of injuries arising from the insured’s criminal act • Treatment of injuries arising directly or indirectly from nuclear fallout, war and related risk • Treatment of injuries arising from direct participation in civil commotion, riot or strike • Expenses incurred after the 7th calendar day from being certified to be medically fit for discharge from inpatient treatment and assessed to have a feasible discharge option by a medical practitioner • Surgical interventions, including related complications, for the following rare congenital conditions which are severe and fatal by nature: Trisomy 13, Bilateral Renal Agenesis, Bart’s Hydrops and Anecephaly • Optional items which are outside the scope of medical treatment • Overseas medical treatment • Private nursing charges • Purchase of kidney dialysis machines, iron-lung and other special appliances • Treatment which has received reimbursement from Workmen’s Compensation and other forms of insurance coverage 32 8. Additional private insurance coverage MediShield Life is designed to cover subsidised bills in public hospitals. Hence, if you intend to seek non-subsidised treatments in public hospitals or private hospitals, you may consider buying additional private insurance coverage in the form of an Integrated Shield Plan (IP). 8.1 What is an Integrated Shield Plan? An IP is made up of a MediShield Life component that is a national medical insurance scheme by the Government and an additional private insurance coverage component provided by a private insurer. IP premiums are higher than MediShield Life premiums. Before you take up an IP cover, do consider if you can afford your IP premiums in the long term, especially since premiums increase with age. Do speak with your financial planner or approach any of the participating insurers for more information on IPs. Please visit the MOH website for the list of participating insurers. You may also visit the Health Insurance Planner to compare IPs. 33 8.2 What is Additional Withdrawal Limit? If you buy an IP cover, you will be able to use MediSave to pay the premium for the additional private insurance coverage component up to the Additional Withdrawal Limits (AWLs). Please refer to Table L on the AWLs for IP covers. Diagram 1: How the AWL is applied to the IP premium Table L: AWLs for IP Policyholders Age"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_21"
+    ],
+    "rag_query": {
+      "query": "Can a Permanent Resident aged 40 who stays in Ward B2 claim for surgical procedure charges under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_033",
+    "question": "What is the Additional Withdrawal Limit for IP policyholders aged 41-70 under MediShield Life?",
+    "type": "OOKB",
+    "category": "D",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "8.2 What is Additional Withdrawal Limit? If you buy an IP cover, you will be able to use MediSave to pay the premium for the additional private insurance coverage component up to the Additional Withdrawal Limits (AWLs). Please refer to Table L on the AWLs for IP covers. Diagram 1: How the AWL is applied to the IP premium Table L: AWLs for IP Policyholders Age Next Birthday AWLs 1 – 40 $300 41 – 70 $600 71 and above $900 34 | | | | | | Table L: AWLs for IP Policyholders | | | | | | | | | Age Next Birthday | | | AWLs | | | | | | | | | | | | | 1 – 40 | | | $300 | | | | | | | | | | | 41 – 70 | | | $600 | | | | | | | | | | | | | 71 and above | | | $900 | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_22"
+    ],
+    "rag_query": {
+      "query": "What is the Additional Withdrawal Limit for IP policyholders aged 41-70 under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_034",
+    "question": "How is the co-insurance percentage applied to the claimable amount for inpatient and day surgery claims under MediShield Life?",
+    "type": "OOKB",
+    "category": "D",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "| | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | | | | | 1 Inclusive of deductible | | | | | | | | | Illustration of how co-insurance works (The example is based on a claimable amount of $12,000 and deductible of $2,000.) Bill above Claim Limits (payable using MediSave/cash) You pay Above $60 MediShield Life $10,000 (3% of pays $1,940 $2,000) You pay $250 MediShield Life Claimable Next $5,000 (5% of pays $4,750 Amount $5,000) $12,000 First $5,000 You pay $300* MediShield Life (Inclusive of (10% of $3,000) pays $2,700 $2,000 deductible) Deductibl e ($2,000) You pay $610 of MediShield Life pays co-insurance with $9,390 MediSave/ cash * If a deductible is payable, the co-insurance of 10% is applied on the amount above the deductible. In this case, as the deductible is $2,000, the co-insurance for the first $5,000 will be 10% of the remaining $3,000 which is $300. 28 Bill above Claim Limits (payable using MediSave/cash) You pay $60 (3% of $2,000) You pay $250 (5% of $5,000) You pay $300* (10% of $3,000) Deductibl e ($2,000) You pay $610 of co-insurance with MediSave/ cash | MediShield Life pays $9,390 6.4 How are claims computed? Example 1: Claim computation for a Singapore Citizen aged 35 who stays in a Ward C (excluding IP/rider coverage) Length of stay: 10 days (including 8 days in ICU) Procedure performed: Stomach operation Post-Subsidy MediShield Life Hospital bill1 claim computation Daily ward & treatment charges $8,600 $8,6002 (2 days normal ward + 8 days ICU) Surgical procedure (Table 6B) $1,250 $1,2503 Total $9,850 $9,850 Less deductible4 - ($2,000) Claimable amount - $7,850 (less deductible) Less co-insurance - ($542.50)5 MediShield Life pays - $7,307.50 (74%) MediSave and/or Cash - $2,542.50 (26%) 1 As the insured member is a Singapore Citizen who stayed in Ward C, the MediShield Life claim is computed based on 100% of the bill. 2 Lower of the claim limit for Daily Ward & Treatment Charges, [($830 x 2 days) + ($5,140 x 8 days) +($800 x 2 days)] = $44,380, or 100% of charges incurred of $8,600. Therefore, the claimable amount is $8,600. 3 Lower of the claim limit in Table A for surgical procedure, $3,540 (Table 6B), or 100% of charges incurred of $1,250. Therefore, the claimable amount is $1,250. 4 The insured member is below 80 years old, subject to deductible of $2,000 for Ward C. 5 Co-insurance = ($3,000 x 10%) + ($4,850 x 5%) = $542.50. 29 | Post-Subsidy Hospital bill1 | MediShield Life claim computation Daily ward & treatment charges (2 days normal ward + 8 days ICU) | $8,600 | $8,6002 Surgical procedure (Table 6B) | $1,250 | $1,2503 Total | $9,850 | $9,850 Less deductible4 | - | ($2,000) Claimable amount (less deductible) | - | $7,850 Less co-insurance | - | ($542.50)5 MediShield Life pays | - | $7,307.50 (74%) MediSave and/or Cash | - | $2,542.50 (26%) Example 2: Claim computation for a Singapore Citizen aged 60 who stays in a Ward A (excluding IP/rider coverage) Length of stay: 18 days Procedure performed: Hip replacement Pro-ration factor (hospitalisation charges): 27% Pro-ration factor (surgical charges): 25% Pro-rated MediShield Life Hospital bill Hospital bill 1 claim computation Daily ward & treatment $3,240 $3,2402 charges (18 days $12,000 ($12,000 x 27%) normal ward) Surgical procedure $2,125 $2,1253 $8,500 (Table 5C) ($8,500 x 25%) $1,000 Implant $4,000 $1,0004 ($4,000 x 25%) Total $24,500 $6,365 $6,365 Less deductible5 - - ($3,500) Claimable amount - - $2,865 (less deductible) Less co-insurance - - ($218.25)6 MediShield Life pays - - $2,646.75 (11%) MediSave and/or Cash - - $21,853.25 (89%) 1 As the insured member stayed in"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_19"
+    ],
+    "rag_query": {
+      "query": "How is the co-insurance percentage applied to the claimable amount for inpatient and day surgery claims under MediShield Life?"
+    }
+  },
+  {
+    "id": "q_035",
+    "question": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?",
+    "type": "OOKB",
+    "category": "E",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "78 $2,027 31 – 40 $503 79 – 80 $2,187 41 – 50 $637 81 – 83 $2,303 51 – 60 $903 84 – 85 $2,616 61 – 65 $1,131 86 – 88 $2,785 66 – 70 $1,326 89 – 90 $2,785 71 – 73 $1,643 >90 $2,826 The annual premiums can be fully paid using MediSave. You can pay your premium from your MediSave, or your family members (i.e. spouse, parents, children, grandchildren or siblings) may pay your premium using their MediSave. Premiums (after any applicable subsidies) are automatically deducted from your (or your payer’s) MediSave each year. If there is insufficient balance in the MediSave Account to pay the premiums, you (or your payer) will be informed to top up your (or your payer’s) MediSave or arrange a family member to help pay the premiums. For more details, please visit cpf.gov.sg/PremiumPayment. 10 | | | | | | | | | | | | Table B: Premiums (before subsidies) | | | | | | | | | | | (Applicable for policy start/renewal date on or after 1 April 2025) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Age Next | | | Annual Premiums | | | Age Next | | | Annual Premiums | | Birthday | | | (Inclusive of 9% GST) | | | Birthday | | | (Inclusive of 9% GST) | | | | | | | | | | | | | | | | | | | | | | | | 1 – 20 | | | $200 | | | 74 – 75 | | | $1,816 | | | | | | | | | | | | | | | | | | | | | | | | 21 – 30 | | | $295 | | | 76 – 78 | | | $2,027 | | | | | | | | | | | | | | | | | | | | | | | | 31 – 40 | | | $503 | | | 79 – 80 | | | $2,187 | | | | | | | | | | | | | | | | | | | | | | | | 41 – 50 | | | $637 | | | 81 – 83 | | | $2,303 | | | | | | | | | | | | | | | | | | | | | | | | 51 – 60 | | | $903 | | | 84 – 85 | | | $2,616 | | | | | | | | | | | | | | | | | | | | | | | | 61 – 65 | | | $1,131 | | | 86 – 88 | | | $2,785 | | | | | | | | | | | | | | | | | | | | | | | | 66 – 70 | | | $1,326 | | | 89 – 90 | | | $2,785 | | | | | | | | | | | | | | | | | | | | | | | | 71 – 73 | | | $1,643 | | | >90 | | | $2,826 | | | | | | | | | | | | 3.3 Who needs to pay Additional Premiums? Under MediShield Life, those with pre-existing medical conditions can enjoy coverage for their conditions. Only those with serious pre-existing medical conditions need to pay an Additional Premium of 30% for the first 10 years, in addition to the standard MediShield Life premiums. A pre-existing condition is a medical condition or illness that an individual already has before he is covered under an insurance plan. If the medical"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_7"
+    ],
+    "rag_query": {
+      "query": "What is the MediShield Life premium for a 30-year-old Singapore Citizen?"
+    }
+  },
+  {
+    "id": "q_036",
+    "question": "Can a Permanent Resident claim from MediShield Life for cancer treatment?",
+    "type": "OOKB",
+    "category": "E",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "beam $15,700 per treatment course therapy – Category 44 4 Refer to the MOH website for the approved indications for use of proton beam therapy. 5 Refer to the Cancer Drug List on the MOH website for the applicable claim limit. 6 Defined as two or more cancers arising from different sites and/or are of a different histology or morphology group. The claim limits for patients receiving treatment for multiple primary cancers are accorded on an application basis; doctors are to send the application form to MOH for assessment. 6 | | | | | | Table A: MediShield Life Benefits (continued) | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | Outpatient Benefits Claim Limits | | | | | | | | | | | | | | | Patients receiving treatment for one primary cancer | | | | | | | | | | | | | | - Cancer drug treatment | | | | $200 - $12,800 per month, | | | | | depending on cancer drug | | | | | treatment5 | | | | | | | | | | | | - Cancer drug services | | | $4,500 per calendar year | | | | | | | | | | | | Patients receiving treatment for multiple primary cancers6 | | | | | | | | | | | | | | - Cancer drug treatment | | | Sum of the highest cancer drug | | | | | treatment limit amongst the | | | | | claimable treatments received for | | | | | each primary cancer per month | | | | | | | | | | | | | - Cancer drug services | | $9,000 per calendar year | | | | | | | | | | | | | Radiotherapy for cancer | | | | | | | | | | | | | | | - External (except Hemi-body) | | | $400 per treatment | | | | | | | | | | | | - Brachytherapy | | | $620 per treatment | | | | | | | | | | | | - Hemi-body | | | $620 per treatment | | | | | | | | | | | | - Stereotactic | | | $460 per treatment | | | | | | | | | | | | - Proton beam therapy – Category 14 | | | $400 per treatment | | | | | | | | | | | | - Proton beam therapy – Category 24 | | | $620 per treatment | | | | | | | | | | | | - Proton beam therapy – Category 34 | | | $460 per treatment | | | | | | | | | | | | - Radiosurgery, including proton beam | | $15,700 per treatment course | | | therapy – Category 44 | | | | | | | | | | | | | | | 4 Refer to the MOH website for the approved indications for use of proton beam therapy. | | | | | 5 Refer to the Cancer Drug List on the MOH website for the applicable claim limit. | | | | | 6 Defined as two or more cancers arising from different sites and/or are of a different histology or | | | | | morphology group. The claim limits for patients receiving treatment for multiple primary cancers are | | | | | accorded on an application basis; doctors are to send the application form to MOH for assessment. | | | | | | | | | | | | | | Table A: MediShield Life Benefits (continued) (Applicable for admissions or treatments received on or"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_3"
+    ],
+    "rag_query": {
+      "query": "Can a Permanent Resident claim from MediShield Life for cancer treatment?"
+    }
+  },
+  {
+    "id": "q_037",
+    "question": "What is the deductible for a Singapore Citizen aged 60 who stays in a Ward A?",
+    "type": "OOKB",
+    "category": "E",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "start of the policy year) | | | | | | | | (Applicable for admissions or treatments received on or after 1 June 2026) | | | | | | | | | | | | | | | | | | | | | | | | Ward class / treatment | | | 80 and below | | | 81 and above | | | | | | | | | | | | | | | | | | Class C | | | $2,000 | | | $2,750 | | | | | | | | | | | | | | | | | Class B2/B2+/B1 | | | $2,500 | | | $3,500 | | | | | | | | | | | | | | | | | | | Class A (including private hospitals) | | | $3,500 | | | $4,500 | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,000 | | | $2,750 | | | Inpatient palliative care service | | | | | | | | (Subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Community Hospital/Short-stay ward/ | | $2,500 | | | $3,500 | | | Inpatient palliative care service (Non- | | | | | | | | subsidised) | | | | | | | | | | | | | | | | | | | | | | | | Day surgery | | | $1,500 | | | $2,000 | | | | | | | | | | | | | | | | | | Outpatient treatments | | | $500 | | | | | | | | | | | | Illustration of how the deductible works (The examples are based on assumptions that the members are below 80 years old and stay in Ward C. The deductible is $2,000 per policy year. Payouts from MediShield Life are subject to claim limits.) Scenario A: Mr. A is hospitalised once in each policy year. 1st hospitalisation 2nd hospitalisation Claimable Amount: $3,000 Claimable Amount: $2,500 Deductible: $2,000 Deductible: $2,000 As the claimable amount is above As the claimable amount is above the deductible, there is payout from the deductible, there is payout from MediShield Life MediShield Life Policy Year: 1 Apr 25 – 31 Mar 26 Policy Year: 1 Apr 2026 – 31 Mar 2027 1 April 1 April 1 April 2025 2026 2027 1st hospitalisation 2nd hospitalisation Claimable Amount: $1,000 Claimable Amount: $2,000 Deductible: $2,000 Deductible Balance for Policy Year: $1,000 As the claimable amount is less than the deductible of As Mr B had paid the deductible of $2,000, there is no payout $1,000 during the 1st hospitalisation, he from MediShield Life. only needs to pay the balance deductible of $1,000 for the 2nd hospitalisation. Scenario B: Mr. B is hospitalised twice in the same policy year. 26 Mr. B is hospitalised twice in the same policy year. 6.3 What is co-insurance? Co-insurance is the percentage of the claimable amount that you need to pay. Table K gives the breakdown of the co-insurance percentage by setting. Table K: Co-insurance Inpatient/ day surgery/ outpatient Claimable amount accumulated within a policy year First $5,0001 10% Next $5,000 5% Above $10,000 3% 1 Inclusive of deductible 27 | | | | | | Table K: Co-insurance | | | | | | | | | | | | | | | Inpatient/ day surgery/ outpatient | | | | | Claimable amount accumulated within a policy year | | | | | | | | | | | | | | | First $5,0001 | | | 10% | | Next $5,000 | | | 5% | | Above $10,000 | | | 3% | | | | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_18"
+    ],
+    "rag_query": {
+      "query": "What is the deductible for a Singapore Citizen aged 60 who stays in a Ward A?"
+    }
+  },
+  {
+    "id": "q_038",
+    "question": "How is the pro-ration factor applied to hospitalisation charges for a Singapore Citizen?",
+    "type": "OOKB",
+    "category": "E",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "bills pro-rated before claims under MediShield Life are computed. The applicable pro-ration factors are shown in Tables G, H and I. Table G: Pro-ration Factors for Hospitalisation Charges (Applicable for admissions or treatments received on or after 1 April 2025) Singapore Permanent Ward Class / Subsidy Status Citizen Resident Class C 100% 50% Class B2 100% 50% Class B2+ 100% 50% Class B1 34% 29% Class A 27% 25% Private hospital 16% 16% Community hospital (subsidised) 100% 60% Community hospital (non-subsidised) 45% 37% Inpatient palliative care service (subsidised) 100% 60% Inpatient palliative care service (non-subsidised) 45% 37% Short stay ward (subsidised) 100% 50% Short stay ward (non-subsidised) 27% 25% Day surgery (subsidised) 100% 54% Day surgery (public hospital non-subsidised) 33% 33% Day surgery (private hospital) 21% 21% 23 | | | | | | | | | Table G: Pro-ration Factors for Hospitalisation Charges | | | | | | | | (Applicable for admissions or treatments received on or after 1 April 2025) | | | | | | | | | | | | | | | | | | | | | | | Ward Class / Subsidy Status | | | | Singapore | | | Permanent | | | | | Citizen | | | Resident | | | | | | | | | | | | | | | | | | Class C | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2 | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B2+ | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Class B1 | | | 34% | | | 29% | | | | | | | | | | | | | | | | | | Class A | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Private hospital | | | 16% | | | 16% | | | | | | | | | | | | | | | | | | Community hospital (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Community hospital (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (subsidised) | | | 100% | | | 60% | | | | | | | | | | | | | | | | | | Inpatient palliative care service (non-subsidised) | | | 45% | | | 37% | | | | | | | | | | | | | | | | | | Short stay ward (subsidised) | | | 100% | | | 50% | | | | | | | | | | | | | | | | | | Short stay ward (non-subsidised) | | | 27% | | | 25% | | | | | | | | | | | | | | | | | | Day surgery (subsidised) | | | 100% | | | 54% | | | | | | | | | | | | | | | | | | Day surgery (public hospital non-subsidised) | | | 33% | | | 33% | | | | | | | | | | | | | | | | | | Day surgery (private hospital) | | | 21% | | | 21% | | | | | | | | | Table H: Pro-ration Factors for Outpatient Charges (Applicable"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_15"
+    ],
+    "rag_query": {
+      "query": "How is the pro-ration factor applied to hospitalisation charges for a Singapore Citizen?"
+    }
+  },
+  {
+    "id": "q_039",
+    "question": "What is the Additional Withdrawal Limit for an IP policyholder aged 50?",
+    "type": "OOKB",
+    "category": "E",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "8.2 What is Additional Withdrawal Limit? If you buy an IP cover, you will be able to use MediSave to pay the premium for the additional private insurance coverage component up to the Additional Withdrawal Limits (AWLs). Please refer to Table L on the AWLs for IP covers. Diagram 1: How the AWL is applied to the IP premium Table L: AWLs for IP Policyholders Age Next Birthday AWLs 1 – 40 $300 41 – 70 $600 71 and above $900 34 | | | | | | Table L: AWLs for IP Policyholders | | | | | | | | | Age Next Birthday | | | AWLs | | | | | | | | | | | | | 1 – 40 | | | $300 | | | | | | | | | | | 41 – 70 | | | $600 | | | | | | | | | | | | | 71 and above | | | $900 | | | | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_22"
+    ],
+    "rag_query": {
+      "query": "What is the Additional Withdrawal Limit for an IP policyholder aged 50?"
+    }
+  },
+  {
+    "id": "q_040",
+    "question": "Can a person with a pre-existing medical condition enjoy coverage under MediShield Life?",
+    "type": "OOKB",
+    "category": "E",
+    "difficulty": "hard",
+    "expected_behavior": "refuse",
+    "expected_answer": null,
+    "source_documents": [
+      "MediShieldLife.pdf"
+    ],
+    "source_chunks": [
+      "MediShield Life, those with pre-existing medical conditions can enjoy coverage for their conditions. Only those with serious pre-existing medical conditions need to pay an Additional Premium of 30% for the first 10 years, in addition to the standard MediShield Life premiums. A pre-existing condition is a medical condition or illness that an individual already has before he is covered under an insurance plan. If the medical condition developed after the start of an insurance cover, it is not considered a pre-existing condition. Examples of serious pre-existing conditions for which you may have to pay Additional Premiums include cancer, kidney failure, stroke and heart diseases. Refer to the MOH website for more information on the broad categories of serious pre-existing conditions. Those with serious pre-existing conditions will be informed to pay Additional Premiums. Any applicable MediShield Life premium subsidies will also apply to the Additional Premiums. 11 3.4 What are premium rebates? Under MediShield Life, members pay premiums ahead during their working ages, and in return enjoy premium rebates during their older ages. This helps to distribute premiums more evenly throughout one’s life and moderate the premium increases during the older ages when one becomes less economically active. The premium rebates you receive depend on how long you have been insured under the scheme. The earlier you join the scheme, the higher the premium rebates you will receive. Table C: Premium Rebates Table (for those born in or after 1950)1 Entry Age Premium Rebate Amount2 per year, by Age Band ($) (as of next birthday) 66 - 70 71 - 73 74 - 75 76 - 78 79 - 80 81 - 83 84 - 85 86 - 90 30 and 64 141 244 345 415 583 640 712 below 31 - 40 54 106 183 259 312 438 480 534 41 - 50 48 71 122 173 208 292 319 356 51 - 60 40 40 61 86 104 146 160 178 61 - 70 N.A. 16 44 67 85 95 102 120 1 Please refer to the MediShield Life website for the premium rebate table for those born before 1950. 2 Premium rebates will be adjusted from time to time in line with the experience of the scheme. 12 | | | | | | | | | | | | | | | | | | | | | | | | | | | Table C: Premium Rebates Table (for those born in or after 1950)1 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Entry Age (as of next birthday) | | | Premium Rebate Amount2 per year, by Age Band ($) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 66 - 70 | | | 71 - 73 | | | 74 - 75 | | | 76 - 78 | | | 79 - 80 | | | 81 - 83 | | | 84 - 85 | | | 86 - 90 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 30 and | | 64 | | | 141 | | | 244 | | | 345 | | | 415 | | | 583 | | | 640 | | | 712 | | |"
+    ],
+    "source_chunk_ids": [
+      "MediShieldLife.pdf_chunk_8"
+    ],
+    "rag_query": {
+      "query": "Can a person with a pre-existing medical condition enjoy coverage under MediShield Life?"
+    }
+  }
+]
