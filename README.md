@@ -7,7 +7,11 @@ base, the platform auto-generates a mixed In-Knowledge-Base / Out-of-Knowledge-B
 judges every response with an LLM, and reports a single deployment-weighted
 robustness score plus a diagnosis of *where* the system fails.
 
-> **Demo video:** `[DEMO VIDEO URL — add before submission]`
+> **Demo video:** `
+
+https://github.com/user-attachments/assets/346d7540-53f0-4108-9268-fa73c9c08922
+
+`
 
 ---
 
