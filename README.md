@@ -329,13 +329,22 @@ judge) plus question generation. On CPU this is impractically slow; on one
 mid-range GPU (e.g. an L4/A10, ~S$0.50–1.50/hr spot) a full run completes in
 minutes and a realistic 200–500 question suite across a few KBs is a sub-dollar
 job. Embeddings (`all-MiniLM-L6-v2`) and metrics are negligible. Scaling is
-embarrassingly parallel — shard questions across workers. With access to a
-larger internally-hosted model, only the judge and question-generator need it;
+mainly parallellism and also clean up the database and login mechanisms — shard questions across workers.
+With access to a larger internally-hosted model, only the judge and question-generator need it;
 the RAG-under-test can stay small.
 
-**What I'd monitor live.** Judge-label distribution drift over time, judge
-self-consistency on a fixed held-out probe set, question-generation reject/retry
-rate, and per-run latency/cost.
+**What I'd monitor live.** As KB size and question count scale up, the key                                                                                   
+signals are: **inference latency per LLM call** (p50/p95 — the model is shared                                                                               
+across question generation, three RAG modes, and judging, so a single slow call                                                                              
+multiplies); **evaluation job queue depth and failure rate** (background jobs                                                                                
+are the main concurrency bottleneck — a stuck job blocks the whole run);                                                                                     
+**question-generation reject/retry rate** (the LLM must produce valid JSON in                                                                                
+the correct IKB/OOKB/PARTIAL ratio — failures here silently shrink the                                                                                       
+questionnaire and skew the score); and **IKB/OOKB balance drift** across runs                                                                                
+on the same KB (if the generator keeps producing the same question types or                                                                                  
+clusters around the same chunks, the benchmark is less representative than                                                                                   
+the question count suggests). On the cost side, tracking **GPU-hours per                                                                                     
+100 questions** gives a unit-economics baseline before scaling to larger KBs. 
 
 **The risk that would keep me up at night.** **A miscalibrated judge silently
 passing an unsafe system.** Because the judge is the same class of model as the
